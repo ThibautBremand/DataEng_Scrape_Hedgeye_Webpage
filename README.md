@@ -3,7 +3,7 @@
 This Notebook contains a script corresponding to the exercise evocated in this repo :  
 https://github.com/fkchang/Data-Engineer-Applicant-Exercise  
 
-The idea is to scrape this [website's main page's HTML](https://app.hedgeye.com/insights/all?type=insight), using **Beautifulsoup**. Then, we retrieve the top 6 trending articles from this page, and their corresponding URLs. Finally, we can scrape each of the corresponding webpages, using the URLs, in order to obtain all the data we need.  
+The idea is to scrape this [website's main page's HTML](https://app.hedgeye.com/insights/all?type=insight), using **Beautifulsoup**. Then, we retrieve the top 6 trending articles from this page, and their corresponding URLs. Finally, we can scrape each of the corresponding webpages, using the URLs, in order to obtain all the data we need for each article.  
 
 - Datetime Published
 - Headline
